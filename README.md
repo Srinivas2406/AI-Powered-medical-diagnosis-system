@@ -8,16 +8,16 @@ This project predicts diseases (Diabetes, Liver Disease, Thyroid) using Machine 
 #Folder Structure
 
 📂 Project 
-│── 📂 database/              # Contains CSV files  
+│── 📂 database/           
 │   ├── diabetes.csv  
 │   ├── liver.csv  
 │   ├── thyroid.csv  
 │  
-│── 📂 models/                # Contains trained model files  
+│── 📂 models/               
 │   ├── diabetes_model.pkl  
 │   ├── liver_model.pkl  
 │   ├── thyroid_model.pkl  
 │  
 │── app.py                    
-│── train.py                   # Model training script 
-│── requirements.txt           # List of dependencies 
+│── train.py                  
+│── requirements.txt          
