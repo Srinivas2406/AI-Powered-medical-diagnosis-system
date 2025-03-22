@@ -6,6 +6,7 @@ This project predicts diseases (Diabetes, Liver Disease, Thyroid) using Machine 
 3. Run
 
 #Folder Structure
+
 📂 Project 
 │── 📂 database/              # Contains CSV files  
 │   ├── diabetes.csv  
