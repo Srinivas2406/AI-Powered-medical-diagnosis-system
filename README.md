@@ -3,7 +3,7 @@ This project predicts diseases (Diabetes, Liver Disease, Thyroid) using Machine 
 ## How to Run  
 1. Clone the repository  
 2. Install dependencies (`pip install -r requirements.txt`)  
-3. Run `streamlit run app.py`  
+3. Run
 
 #Folder Structure
 📂 Project 
@@ -17,5 +17,6 @@ This project predicts diseases (Diabetes, Liver Disease, Thyroid) using Machine 
 │   ├── liver_model.pkl  
 │   ├── thyroid_model.pkl  
 │  
-│── app.py                    # Streamlit frontend  
+│── app.py                    
 │── train.py                   # Model training script 
+│── requirements.txt           # List of dependencies 
